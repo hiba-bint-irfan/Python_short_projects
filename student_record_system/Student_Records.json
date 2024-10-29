@@ -1,0 +1,35 @@
+[
+    {
+        "name": "hiba",
+        "rollno": 1,
+        "subject": {
+            "Maths": 12.0,
+            "Science": 45.0,
+            "English": 22.0,
+            "Urdu": 33.0
+        },
+        "totalmarks": 112.0
+    },
+    {
+        "name": "amir",
+        "rollno": 2,
+        "subject": {
+            "Maths": 34.0,
+            "Science": 33.0,
+            "English": 28.0,
+            "Urdu": 87.0
+        },
+        "totalmarks": 182.0
+    },
+    {
+        "name": "kamran",
+        "rollno": 5,
+        "subject": {
+            "Maths": 78.0,
+            "Science": 98.0,
+            "English": 67.0,
+            "Urdu": 99.0
+        },
+        "totalmarks": 342.0
+    }
+]
